@@ -1,0 +1,7 @@
+{
+	"image": "feabhas/ceedling-0.28.2",
+	"extensions": [
+		"ms-vscode.cpptools",
+		"tht13.html-preview-vscode",
+	],
+}
