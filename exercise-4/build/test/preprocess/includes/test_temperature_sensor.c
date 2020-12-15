@@ -1,6 +1,0 @@
----
-- unity.h
-- temperature_sensor.h
-- mock_ds18b20.h
-- mock_lcd.h
-- build/temp/_test_temperature_sensor.c
